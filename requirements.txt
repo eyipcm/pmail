@@ -1,0 +1,16 @@
+# PMail - Gmail Email Client Requirements
+# Python 3.10+ required
+
+# Scheduled task management
+schedule>=1.2.0
+
+# Standard library modules used (no installation needed):
+# - smtplib (email sending)
+# - email.mime.text, email.mime.multipart, email.mime.base (email formatting)
+# - email.encoders (base64 encoding for attachments)
+# - mimetypes (attachment content type detection)
+# - logging (logging functionality)
+# - typing (type hints - Python 3.10+)
+# - pathlib (file path handling)
+# - argparse (command-line interface)
+# - datetime, os, sys, re (standard utilities)
