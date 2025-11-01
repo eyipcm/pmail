@@ -1,7 +1,7 @@
 """
 Scheduler for sending regular emails.
 
-Copyright (C) 2025 Ernest YIP eyipcm@gmail.com
+Copyright (C) 2025 Ernest YIP <eyipcm@gmail.com>
 SPDX-License-Identifier: MIT 
 See the LICENSE file in the project root for full license text.
 """
