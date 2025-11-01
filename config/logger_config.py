@@ -1,7 +1,7 @@
 """
 Logging configuration for the email client.
 
-Copyright (C) 2025 Ernest YIP 
+Copyright (C) 2025 Ernest YIP eyipcm@gmail.com
 SPDX-License-Identifier: MIT 
 See the LICENSE file in the project root for full license text.
 """
