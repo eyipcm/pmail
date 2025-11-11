@@ -691,7 +691,7 @@ These modules can be easily integrated into a web framework (Flask, FastAPI, etc
 - The scheduler runs in a loop and checks for pending jobs at regular intervals
 - For production use, consider using a proper task queue (Celery, RQ, etc.) instead of the simple scheduler
 
-## License
+## [License](LICENSE)
 
 MIT
 
